@@ -13,4 +13,11 @@ Discover your dream home with Beno! 🚀 Powered by React Native, this app offer
 ## Getting Started
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/beno-house-finder.git
+   ## Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Rolandzogbay/BenoHouseFinder_app.git
+
+
+
